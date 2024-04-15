@@ -1,0 +1,3 @@
+python-dotenv[cli]
+psutil
+requests
